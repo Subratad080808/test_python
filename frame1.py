@@ -1,6 +1,12 @@
 import pandas as pd
 
-df.describe()
+
 df=pd.DataFrame()
 
+
 print("ss")
+
+def io(x):
+  print(x)
+
+io(4)
