@@ -19,7 +19,7 @@ classimpo_1.sum_1(2)
 from Modtest.Sub_folder import pack2
 from Modtest.Sub_folder import pack1
 pack2.classimpo_pack2.sum(7)
-pack1.classimpo_pack.sum(88)
+pack1.classimpo_pack.sum(77777777777777777777)
 
 
 from Modtest.Sub_folder.sub_folder_lvl_2 import Sub_pack1
@@ -35,7 +35,7 @@ tt.display_message_sub_pack_as()
 def neon(x):
     return "i have a light"
 
-neon(9)
+neon(98787)
 
 class argon1():
     def argon(p):
