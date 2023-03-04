@@ -1,4 +1,6 @@
 import pandas as pd
 
-dfxx.describe()
+df.describe()
 df=pd.DataFrame()
+
+print("ss")
