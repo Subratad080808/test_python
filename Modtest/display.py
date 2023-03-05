@@ -9,10 +9,10 @@ classimpo_pack2.sum()
 from Modtest.test import classimpo
 classimpo.sum(2)
 from Modtest.test_1 import classimpo_1
-classimpo_1.sum_1(7)
+classimpo_1.sum_1(7,2)
 
 from test_1 import classimpo_1
-classimpo_1.sum_1(2)
+classimpo_1.sum_1(2,333)
 
 
 
