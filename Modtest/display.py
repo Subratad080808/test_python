@@ -12,7 +12,7 @@ from Modtest.test_1 import classimpo_1
 classimpo_1.sum_1(7,2)
 
 from test_1 import classimpo_1
-classimpo_1.sum_1(2,333)
+classimpo_1.sum_1(333,2)
 
 
 
