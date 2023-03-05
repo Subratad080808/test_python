@@ -35,7 +35,7 @@ tt.display_message_sub_pack_as()
 def neon(x):
     return "i have a light"
 
-neon(98787,90)
+neon(90,98787)
 
 class argon1():
     def argon(p):
