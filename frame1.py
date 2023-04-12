@@ -12,5 +12,6 @@ def io(x,co):
   print(x)
 
 ios(4)
+ios(5)
 
 io(887,78)
